@@ -1,0 +1,9 @@
+Dev put AWS keys on Github. Then BAD THINGS happened
+Fertile fields for Bitcoin yields - with a nasty financial sting
+iconDarren Pauli
+Tue 6 Jan 2015 // 13:02 UTC
+Bots are crawling all over GitHub seeking secret keys, a developer served with a $2,375 Bitcoin mining bill found.
+
+DevFactor founder Andrew Hoffman said he used Figaro to secure Rails apps which published his Amazon S3 keys to his GitHub account.
+
+He noticed the blunder and pulled the keys within five minutes, but that was enough for a bot to pounce and spin up instances for Bitcoin mining
